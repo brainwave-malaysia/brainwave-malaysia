@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋© 2026 BRAINWAVE™ Malaysia.
+
+This repository presents selected educational and research resources.
+
+Certain methodologies, frameworks, algorithms, assessment models, and analytical processes constitute proprietary intellectual property of BRAINWAVE™ Malaysia.
+
+No commercial use, reproduction, redistribution, or derivative works are permitted without prior written permission.
 
 <!--
 **brainwave-malaysia/brainwave-malaysia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
