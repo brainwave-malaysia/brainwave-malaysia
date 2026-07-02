@@ -6,17 +6,68 @@ Certain methodologies, frameworks, algorithms, assessment models, and analytical
 
 No commercial use, reproduction, redistribution, or derivative works are permitted without prior written permission.
 
-<!--
-**brainwave-malaysia/brainwave-malaysia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ts. Suba SK Perumal 👋
 
-Here are some ideas to get you started:
+Founder of *BRAINWAVE™ Malaysia, where we explore the intersection of **Neuroscience, NeuroTechnology, Artificial Intelligence, and Human Performance*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Our mission is to translate cognitive neuroscience into practical, evidence-informed solutions that improve how people learn, work, make decisions, and interact with AI.
+
+---
+
+## Current Research Interests
+
+🧠 Cognitive Neuroscience
+
+🤖 Human-Centred AI
+
+📈 Brain Capital
+
+⚡ NeuroTechnology
+
+🧩 EEG & Brain Mapping
+
+👁️ Eye Tracking
+
+🛍️ Consumer Neuroscience
+
+🏢 Leadership & Cognitive Performance
+
+---
+
+## Current Learning Journey
+
+✔️ Python
+
+✔️ GitHub
+
+✔️ Machine Learning
+
+✔️ TensorFlow
+
+✔️ Deep Learning
+
+✔️ EEG Analytics
+
+✔️ AI Safety
+
+---
+
+## Current Projects
+
+* Cognitive Assessment Tasks
+
+* EEG Analytics
+
+* Neuro-AI
+
+* Consumer Neuroscience
+
+* Brain Capital
+
+* AI for Human Performance
+
+---
+
+I welcome collaborations with researchers, universities, clinicians, and AI professionals interested in building evidence-informed NeuroTech solutions.
+
+© BRAINWAVE™ Malaysia
