@@ -1,6 +1,6 @@
 ## Hi there 👋© 2026 BRAINWAVE™ Malaysia.
 
-This repository presents selected educational and research resources.
+Research and educational resources exploring Cognitive Neuroscience, NeuroTechnology, Human-Centred AI, EEG, and Brain Capital.
 
 Certain methodologies, frameworks, algorithms, assessment models, and analytical processes constitute proprietary intellectual property of BRAINWAVE™ Malaysia.
 
