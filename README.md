@@ -1,11 +1,3 @@
-## Hi there 👋© 2026 BRAINWAVE™ Malaysia.
-
-Research and educational resources exploring Cognitive Neuroscience, NeuroTechnology, Human-Centred AI, EEG, and Brain Capital.
-
-Certain methodologies, frameworks, algorithms, assessment models, and analytical processes constitute proprietary intellectual property of BRAINWAVE™ Malaysia.
-
-No commercial use, reproduction, redistribution, or derivative works are permitted without prior written permission.
-
 # Hi, I'm Ts. Suba SK Perumal 👋
 
 Founder of *BRAINWAVE™ Malaysia, where we explore the intersection of **Neuroscience, NeuroTechnology, Artificial Intelligence, and Human Performance*.
@@ -70,4 +62,11 @@ Our mission is to translate cognitive neuroscience into practical, evidence-info
 
 I welcome collaborations with researchers, universities, clinicians, and AI professionals interested in building evidence-informed NeuroTech solutions.
 
-© BRAINWAVE™ Malaysia
+© 2026 BRAINWAVE™ Malaysia
+
+Research and educational resources exploring Cognitive Neuroscience, NeuroTechnology, Human-Centred AI, EEG, and Brain Capital.
+
+Certain methodologies, frameworks, algorithms, assessment models, and analytical processes constitute proprietary intellectual property of BRAINWAVE™ Malaysia.
+
+No commercial use, reproduction, redistribution, or derivative works are permitted without prior written permission.
+
