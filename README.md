@@ -12,6 +12,8 @@ Our mission is to translate cognitive neuroscience into practical, evidence-info
 
 🤖 Human-Centred AI
 
+🏥 AI Healthcare 
+
 📈 Brain Capital
 
 ⚡ NeuroTechnology
